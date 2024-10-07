@@ -1,6 +1,5 @@
 # Rock-Paper-Scissor
 
-# Budget-Tracker
 
 A straightforward Rock-Paper-Scissor game with the help of HTML, CSS, JAVASCRIPT.
 
